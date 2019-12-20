@@ -1,0 +1,24 @@
+body{
+    margin: 50px;
+    text-align: center;
+    background-color: lightgray;
+}
+
+h1{
+    color: red;
+    font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
+}
+img{border: 10px solid black;}
+
+h3{
+    font-family: 'Slabo 27px', serif;
+}
+p{
+    font-family: 'Slabo 27px', serif;
+    color:red ;
+  
+}
+h2{
+    font-family: 'Vollkorn', serif;
+}
